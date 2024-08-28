@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Non-Alcoholic Drunken Rant</title>
+  <style>
+    #picture {
+      width: 150px;
+      height: 150px;
+      text-align: center;
+    }
+
+    tbody tr th {
+      text-align: left;
+    }
+  </style>
+</head>
+
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th id="picture" rowspan="2">Picture</th>
+        <th colspan="8">Percentage of Individuals Using the Internet</th>
+      </tr>
+      <tr>
+        <th>2000</th>
+        <th>2004</th>
+        <th>2005</th>
+        <th>2009</th>
+        <th>2010</th>
+        <th>2011</th>
+        <th>2014</th>
+        <th>2015</th>
+      </tr>
+    </thead>
+    <tboby>
+      <tr>
+        <th>Australia</th>
+        <td>46.76</td>
+        <td>Blank</td>
+        <td>63.00</td>
+        <td>74.25</td>
+        <td>76.00</td>
+        <td>79.49</td>
+        <td>84.00</td>
+        <td>Bcel</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+      <tr>
+        <th>Hcell</th>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+        <td>Bcell</td>
+      </tr>
+    </tboby>
+    <tfoot>
+      <tr>
+        <td colspan="9">Paragraph</td>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+
+</html>
